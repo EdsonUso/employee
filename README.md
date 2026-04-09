@@ -6,5 +6,3 @@ Projeto Java para gerenciamento de funcionários de uma indústria, desenvolvido
 ## Requisitos
 - **Java 21+**
 - **Maven 4.0.0+**
-    
-```
